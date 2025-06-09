@@ -1,0 +1,43 @@
+body{background-color: #ffa07a;
+
+}
+
+#myh1 {
+  font-family: monospace;
+  font-size: 2.5rem;
+  text-align: center;
+  color: #00ffcc;
+  text-shadow: 1px 1px 3px black;
+}
+
+#name {
+  font-family: monospace;
+  font-size: 1.1rem;
+  display: block;
+  margin: 0 auto;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+#button{
+  font-size: 1.1rem;
+  display: block;
+  margin: 0 auto;
+  padding: 10px;
+  border-radius: 8px;
+  border: none;
+  border-radius: 10px;
+  font-family: monospace;
+  cursor: pointer;
+  background-color: blueviolet;
+
+}
+#output {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 50px auto;
+  padding: 20px;
+  width: fit-content;
+  flex-direction: column;
+}
